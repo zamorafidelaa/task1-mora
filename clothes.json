@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "Pleated Skirt with Belt",
+        "image": "img-one.png",
+        "category": "Skirt",
+        "description": "Rok lipit berwarna krem dengan ikat pinggang kulit cokelat, cocok untuk acara formal atau semi-formal."
+    },
+    {
+        "id": 2,
+        "name": "Brown High-Waisted Shorts",
+        "image": "img-two.png",
+        "category": "Shorts",
+        "description": "Celana pendek high-waist berwarna cokelat dengan kancing depan, loop ikat pinggang, dan lipatan di bagian bawah. Dilengkapi dengan kantong depan dan jahitan yang terlihat untuk tampilan kasual dan modis."
+    },
+    {
+        "id": 3,
+        "name": "Plaid A-Line Skirt",
+        "image": "img-three.png",
+        "category": "Skirt",
+        "description": "Rok A-line bermotif kotak-kotak dengan nuansa warna hangat, cocok untuk musim gugur atau musim dingin."
+    },
+    {
+        "id": 4,
+        "name": "Brown Tiered Skirt",
+        "image": "img-four.png",
+        "category": "Skirt",
+        "description": "Rok panjang berlipat berwarna coklat. Memiliki pinggang elastis dan beberapa lapisan lipatan di bagian bawah."
+    
+    },
+    {
+        "id": 5,
+        "name": "Dress Tiered Ruffle",
+        "image": "img-five.png",
+        "category": "Dress",
+        "description": "Sebuah gaun yang chic dan stylish dengan desain ruffle tiered di sekitar rok. Gaun ini memiliki bagian atas sleeveless dengan tali bahu yang dapat disesuaikan dan cocok mengenakan. Warna coklat menambah sentuhan elegan, menjadikannya sempurna untuk berbagai acara."
+    },
+    {
+        "id": 6,
+        "name": "Dress Overall Brown",
+        "image": "img-six.png",
+        "category": "Dress",
+        "description": "Dress overall tanpa lengan dengan desain kancing di bagian depan. Warna cokelat dengan motif kotak-kotak kecil memberikan kesan vintage dan elegan. Dilengkapi dengan saku di bagian depan, membuat dress ini tidak hanya stylish tetapi juga fungsional."
+    },
+    {
+        "id": 7,
+        "name": "Tie Ruffle Mini Dress",
+        "image": "img-seven.png",
+        "category": "Dress",
+        "description": "Gaun cokelat selutut dengan tali bahu dan tali di bagian pinggang."
+    },
+    {
+        "id": 8,
+        "name": "Brown Midi Dress",
+        "image": "img-eight.png",
+        "category": "Dress",
+        "description": "Gaun midi berwarna cokelat dengan detail kerutan di bagian dada dan tali serut di bagian tengah. Gaun ini memiliki tali bahu lebar dan rok A-line."
+    }
+]
